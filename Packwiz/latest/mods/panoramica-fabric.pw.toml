@@ -1,0 +1,13 @@
+name = "Panoramica [Fabric]"
+filename = "panoramica_fabric_1.1.2-2_MC_1.19-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbb32e1c606232b68fa0c9d4e92ed77f2b552fbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945735
+project-id = 561509

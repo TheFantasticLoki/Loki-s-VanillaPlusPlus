@@ -1,0 +1,13 @@
+name = "Loki's Vanilla++"
+author = "TheFantasticLoki"
+version = "1.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc914a82cdc8e04f0b4c59f7a10980d74214e8ccdefa0f4c421f80717570db51"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"

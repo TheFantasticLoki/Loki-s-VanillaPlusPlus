@@ -1,0 +1,13 @@
+name = "Ores 3D"
+filename = "3D Ores v1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74789b47a6d268b1cf1bea1bdb75fd46f7a73df0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3419207
+project-id = 513528

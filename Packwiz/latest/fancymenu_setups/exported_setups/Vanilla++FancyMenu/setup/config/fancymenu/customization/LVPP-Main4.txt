@@ -1,0 +1,141 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = nether1
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 167
+  action = deep_customization_element:title_screen_branding
+  actionid = ad69489c-01f3-4e45-8df7-353d84fea4741662019467321
+  y = 497
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = db64e9ff-f9e6-48cf-b48f-cc4666f3dc6d1662019467334
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 67a76a98-bb21-49fe-9a43-31a05288577f1662019467335
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = adfcdb47-d29f-405d-98b7-edcd6000530b1662019467335
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resourcepacks\§6Loki's §aVanilla §c++ §aAssets\assets\minecraft\textures\gui\title\discord.png
+  description = Discord/Support
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Discord/Support
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 101
+  width = 22
+  actionid = 890c0e1a-b5ab-4abd-bd6d-efee94f593051662083723027
+  action = addbutton
+  y = 0
+  backgroundnormal = resourcepacks\§6Loki's §aVanilla §c++ §aAssets\assets\minecraft\textures\gui\title\discord.png
+  value = 
+  height = 22
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  label = Play LokiverseMC
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 0
+  width = 200
+  actionid = b1ae66f7-9a0e-48ec-ae39-d78efd9d3eb91662098107530
+  action = addbutton
+  y = 24
+  value = mc.lokiverse.com
+  height = 20
+}
+
+customization {
+  path = resourcepacks/§6Loki's §aVanilla §c++ §aAssets/assets/minecraft/textures/gui/title/lokis-vanillaplusplus.png
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = -29
+  width = 256
+  action = addtexture
+  actionid = 5c5568c7-c266-419f-afa8-7765afede6961662102032539
+  y = -100
+  height = 100
+}
+
+customization {
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = resourcepacks\§6Loki's §aVanilla §c++ §aAssets\assets\minecraft\textures\gui\title\splash.txt
+  rotation = -15.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  orientation_element = 5c5568c7-c266-419f-afa8-7765afede6961662102032539
+  x = 214
+  actionid = 91bd79f4-d820-4e99-ac26-589c45d2f6c21662102563745
+  action = addsplash
+  y = 63
+}
+

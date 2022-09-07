@@ -1,0 +1,15 @@
+{
+  "disabledIntegrations": [],
+  "enablePuzzleButton": true,
+  "debugMessages": false,
+  "checkUpdates": true,
+  "showPuzzleInfo": true,
+  "resourcepackSplashScreen": true,
+  "unlimitedRotations": true,
+  "biggerModels": true,
+  "backgroundColor": -15263977,
+  "progressBarColor": -1,
+  "progressBarBackgroundColor": -15263977,
+  "progressFrameColor": 16777215,
+  "disableBlend": false
+}

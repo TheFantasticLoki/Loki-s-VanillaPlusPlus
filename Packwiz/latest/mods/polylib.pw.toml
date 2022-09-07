@@ -1,0 +1,13 @@
+name = "PolyLib"
+filename = "polylib-fabric-1900.0.2-build.27.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc10c6fb040b75b8de5ba062766d7b37a0ebcfb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3906110
+project-id = 576589

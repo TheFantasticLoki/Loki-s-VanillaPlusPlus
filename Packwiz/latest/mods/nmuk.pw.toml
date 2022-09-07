@@ -1,0 +1,13 @@
+name = "No More Useless Keys - NMUK (Fabric)"
+filename = "nmuk-1.0.1+mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6ffc90d3a4d437ca7948f1e54f5275dac20734a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3829815
+project-id = 438172

@@ -1,0 +1,109 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Report Bugs
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
+  x = 0
+  width = 98
+  actionid = 495ca67b-d0f8-41eb-9fe3-c78b4689ed8d1662095799712
+  action = addbutton
+  y = 24
+  value = https://discord.gg/KbUSc5G4
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Anvil Item Names
+  loopbackgroundanimations = true
+  orientation_element = 495ca67b-d0f8-41eb-9fe3-c78b4689ed8d1662095799712
+  x = -106
+  width = 98
+  actionid = 9c9fbfa9-07cc-4b34-bf6d-0a1d8f2cf13f1662096671853
+  action = addbutton
+  y = 0
+  value = https://powerups4u.wixsite.com/seaofpixels/anvil-item-names
+  height = 20
+}
+
+customization {
+  path = resourcepacks/§6Loki's §aVanilla §c++ §aAssets/assets/minecraft/textures/gui/title/lokis-vanillaplusplus.png
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = -26
+  width = 256
+  action = addtexture
+  actionid = 339e80b5-097b-4ba4-a027-899423072dd81662102300770
+  y = -83
+  height = 100
+}
+
+customization {
+  orientation = element
+  basecolor = #ff0000
+  shadow = true
+  vr:value:windowwidthbiggerthan = 0
+  rotation = 0.0
+  scale = 1.5
+  refresh = false
+  vr:value:windowwidth = 503,918,1924
+  bouncing = true
+  vanilla-like = false
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_disconnect_button
+  x = 62
+  actionid = 0937668f-8224-44b3-8eca-c35a154f6e551662242956269
+  action = addsplash
+  y = 25
+  vr:showif:windowwidthbiggerthan = true
+  text = Tip: F3+T reloads resourcepacks and can fix no head bug!
+  vr:showif:windowwidth = true
+}
+
+customization {
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  vr:value:windowwidthbiggerthan = 0
+  splashfilepath = resourcepacks\§6Loki's §aVanilla §c++ §aAssets\assets\minecraft\textures\gui\title\tips-splash.txt
+  rotation = 0.0
+  scale = 1.25
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  orientation_element = 0937668f-8224-44b3-8eca-c35a154f6e551662242956269
+  x = 10
+  actionid = cc7e9c37-8f10-4000-b4c6-ea40512378131662243324355
+  action = addsplash
+  y = 10
+  vr:showif:windowwidthbiggerthan = true
+}
+

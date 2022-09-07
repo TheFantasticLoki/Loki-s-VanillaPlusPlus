@@ -1,0 +1,9 @@
+name = "CITResewn"
+filename = "CITResewn-1.1.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Packwiz/latest/mods/CITResewn-1.1.1+1.19.jar?raw=true"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
