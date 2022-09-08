@@ -890,7 +890,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "43f116dc618564a26e2681e63a83cec2b53812b17b701b67c44c3ac6ec25be2f"
+hash = "88937dc87c632002edfe96fc5c5dad0ee4e3a99b5236a6cd98857ed23753cb84"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "c6af4a96946e3c35a4fd2fd54727c5e889ac7f94e1962bef8d67e8f46691e342"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"

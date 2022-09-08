@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","file/Oliver+Remund+Paintings.zip","Fabric Mods","charmonium/journeyman","file/Default Improved PBR 1.12.zip","lambdabettergrass/default","file/3D Ores v1.4.zip","loadmyresources.hiddenpack","file/EclecticTrove-LegendaryTooltips-1.19-1.2.0.zip","midnightcontrols/bedrock","continuity/glass_pane_culling_fix","cullleaves/smartleaves","continuity/default","file/wyvernity-datapack-textures-v1-15.zip","file/dnl-resourcepack-17-v1.19.zip","file/§6New Default+","file/FreshAnimations_v1.7_S.zip","file/§6Loki\u0027s MC Resource Pack §bV3","file/§6Loki\u0027s §aVanilla §c++ §aAssets","file/§cBushy Leaves Addon"]
-incompatibleResourcePacks:["file/Oliver+Remund+Paintings.zip","file/Default Improved PBR 1.12.zip","file/3D Ores v1.4.zip","loadmyresources.hiddenpack","file/wyvernity-datapack-textures-v1-15.zip","file/§6New Default+","file/§6Loki\u0027s MC Resource Pack §bV3"]
+resourcePacks:["vanilla","file/Oliver+Remund+Paintings.zip","Fabric Mods","charmonium/journeyman","file/Default Improved PBR 1.12.zip","lambdabettergrass/default","file/3D Ores v1.4.zip","loadmyresources.hiddenpack","file/EclecticTrove-LegendaryTooltips-1.19-1.2.0.zip","midnightcontrols/bedrock","continuity/glass_pane_culling_fix","cullleaves/smartleaves","continuity/default","file/dnl-resourcepack-17-v1.19.zip","file/§6New Default+.zip","file/FreshAnimations_v1.7_S.zip","file/wyvernity-datapack-textures-v1-15.zip","file/§6Loki\u0027s §aVanilla §c++ §aAssets","file/§6Loki\u0027s MC Resource Pack §bV3.zip","file/§cBushy Leaves Addon.zip"]
+incompatibleResourcePacks:["file/Oliver+Remund+Paintings.zip","file/Default Improved PBR 1.12.zip","file/3D Ores v1.4.zip","loadmyresources.hiddenpack"]
 lastServer:mc.apexie.eu
 lang:en_gb
 soundDevice:""
@@ -111,14 +111,11 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.meteor-client.open-gui:key.keyboard.insert
-key_key.meteor-client.open-commands:key.keyboard.period
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_Take Panorama Screenshot:key.keyboard.f10
 key_key.antighost.reveal:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.unknown
