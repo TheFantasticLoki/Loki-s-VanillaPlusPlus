@@ -26,7 +26,7 @@ screenEffectScale:0.7570422
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:1.0
-renderDistance:12
+renderDistance:16
 simulationDistance:6
 entityDistanceScaling:1.0
 guiScale:2
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","file/Oliver+Remund+Paintings.zip","Fabric Mods","charmonium/journeyman","file/Default Improved PBR 1.12.zip","lambdabettergrass/default","file/3D Ores v1.4.zip","loadmyresources.hiddenpack","file/EclecticTrove-LegendaryTooltips-1.19-1.2.0.zip","midnightcontrols/bedrock","continuity/glass_pane_culling_fix","cullleaves/smartleaves","continuity/default","file/wyvernity-datapack-textures-v1-15.zip","file/dnl-resourcepack-17-v1.19.zip","file/FreshAnimations_v1.7_S.zip","file/§6New Default+","file/§6Loki\u0027s MC Resource Pack §bV3","file/§6Loki\u0027s §aVanilla §c++ §aAssets","file/§cBushy Leaves Addon"]
+resourcePacks:["vanilla","file/Oliver+Remund+Paintings.zip","Fabric Mods","charmonium/journeyman","file/Default Improved PBR 1.12.zip","lambdabettergrass/default","file/3D Ores v1.4.zip","loadmyresources.hiddenpack","file/EclecticTrove-LegendaryTooltips-1.19-1.2.0.zip","midnightcontrols/bedrock","continuity/glass_pane_culling_fix","cullleaves/smartleaves","continuity/default","file/wyvernity-datapack-textures-v1-15.zip","file/dnl-resourcepack-17-v1.19.zip","file/§6New Default+","file/FreshAnimations_v1.7_S.zip","file/§6Loki\u0027s MC Resource Pack §bV3","file/§6Loki\u0027s §aVanilla §c++ §aAssets","file/§cBushy Leaves Addon"]
 incompatibleResourcePacks:["file/Oliver+Remund+Paintings.zip","file/Default Improved PBR 1.12.zip","file/3D Ores v1.4.zip","loadmyresources.hiddenpack","file/wyvernity-datapack-textures-v1-15.zip","file/§6New Default+","file/§6Loki\u0027s MC Resource Pack §bV3"]
 lastServer:mc.apexie.eu
 lang:en_gb
