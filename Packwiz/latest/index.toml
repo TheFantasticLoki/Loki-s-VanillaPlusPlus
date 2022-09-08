@@ -901,290 +901,6 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "a9c4d5a34c18b6ea94617e4891ca77081d22e3fa2314407181ae1e6a9b708830"
 
 [[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup.properties"
-hash = "5fc94925d58d3f978b307a5944c6e736056ad38c636dffb371e6d411c8fa6159"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/config.txt"
-hash = "2dd1b24b13893bb430f4bdcd5de94f76237cb4f73576a9659458bd3b345659e1"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customizablemenus.txt"
-hash = "b17ca9c703990ce40d05a436b2e0da99768e964ecbcba69e9f46b05e3489481e"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/Anvil-Menu.txt"
-hash = "c4a7401e2065d4cb5e684fa28a04beb59895388a12b17239422ded4948847594"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/Inv.txt"
-hash = "590c2e37222750bcae9cdff4b3e90572ffa983eab507088dc15c4bd81ce47bf6"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Connecting.txt"
-hash = "cbb813ffb555b806b0a706bff8c9ae46ec15f89f7bafdfbb7ed5d9b6ac5332de"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Loading.txt"
-hash = "3dd521e781935e1afa336d0b1c6272777a12ddf48f56d4e79d9f010744430fb2"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Main2.txt"
-hash = "86d8e04e4329fc9ae4eb4d67b919d679f37ae824af9bc619f76dc673722e9b1d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Main3.txt"
-hash = "b4b3d141150515f8efda9515a92f723c01430d97bdcce888245178361db89ba0"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Main4.txt"
-hash = "1f011ac89baab0fac063f4b244647351fb61866b5d5fd4310fbccb34b2fc09ae"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Multiplayer.txt"
-hash = "c8608706c4cb1cc9a9c625d8aa3393d47066d23f71028f459fc2c8da75d8651a"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Pause.txt"
-hash = "69a54f8538669fed080becd1629de79bc81c924bd2d653a72c8de1781f3307fb"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Progress.txt"
-hash = "582111f05855d8fc7dd5af925bc0ae84649dadb5f1a92f13c0febca85d9cda9f"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LVPP-Recieving.txt"
-hash = "861f8b15e36d9a1c736c72987215c921537dd5c7818d501c52122d51a8ca4c58"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/customization/LokiCraft.txt"
-hash = "7eeb28705acc0368d6af38c76410192f56f8c341234275300c0f88b2dbd58bf2"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/locals/en_us.local"
-hash = "6e22095baeae6bf7a41555cc5d749e74fbd96182d2c8f5976c2c6f351b48b6d5"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/panorama/panorama_0.png"
-hash = "19b4dc7253ce8138debb4d4531ca44dc15aa0b899c6db24695c96a4d924e6ce5"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/panorama/panorama_1.png"
-hash = "a9a8ef0495be9830cf8d2f7a6638048b92a528f3a82fef60fee3ce3f9b02841d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/panorama/panorama_2.png"
-hash = "389ff2a30eb20de5ca1759ffed2a8755d5f0ff98baa8db52b78fff7db6bba631"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/panorama/panorama_3.png"
-hash = "82b4f9a314c04fedee19721b9d9bef63e5b517428ff63909f12146bdc230baec"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/panorama/panorama_4.png"
-hash = "d1db6c23d0a086ed9335b8c217d97f61de6cd07f838bd4a48dd576075e454401"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/panorama/panorama_5.png"
-hash = "dd49d4a127d33b869fad0deb32b07eff34b781ecf9852e41bf89dfdd9230206d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/end1/properties.txt"
-hash = "56b184316a315fc9a6f5d1200ad0b3fef666f8987b56d29050f57c14624ec30a"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/panorama/panorama_0.png"
-hash = "562c276d1c88a914e3806b441597b7de21e48261ad56b1fc9e32644823e15f33"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/panorama/panorama_1.png"
-hash = "79b93d5f7e874006aca8ba0d3c5e07a6977c95aa2e4da0aae532aa36bdd23f40"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/panorama/panorama_2.png"
-hash = "c5abda8c60c5c4893f1cb143057033739e8a525a22c5461234bc5ea81ab66faa"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/panorama/panorama_3.png"
-hash = "5cff2370d0fd1d5a90f84638d4fbd2ca9ca91f7dc647b4fbed094e2e0b5d3c82"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/panorama/panorama_4.png"
-hash = "f65f9f4bff85c4fac4f0206151277bf40ad721922ce9ccefc2c51ffe1beb374d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/panorama/panorama_5.png"
-hash = "be43f446cd095ee4a05e67d931e0df6288912428e1d8a38451f4ade3a232e628"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/multiplayer1/properties.txt"
-hash = "b247b0966b0554dcdbf32b6ae0bb0bb96c8cd0e1cf55ff05108ab48264d60cbd"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/panorama/panorama_0.png"
-hash = "402af6f0677c0b96ee8144b9bba2d7031d173c063a6e9e8f6b264f7da2e4e976"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/panorama/panorama_1.png"
-hash = "38c2c1c49ad0e81cf17c630376897d2ab157c0206d2285efefa7609e95dd7172"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/panorama/panorama_2.png"
-hash = "078ea5f7d6840c362ee1be2d58cf9814f22970915415589b3e1fe8a0eed70041"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/panorama/panorama_3.png"
-hash = "47f398a3d3589fa2bcaa583c34043811a48497f557702ec26f9775e9307f7e9e"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/panorama/panorama_4.png"
-hash = "672da7a8f0c53b9d55eb0ee548d6621f3d5d1807a111286ed872326d5df5278e"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/panorama/panorama_5.png"
-hash = "edd23165b7f8d6821fcf42816edcf4503ea05ea90f48d41f3a5cfe4d100a452c"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether1/properties.txt"
-hash = "041bed2413b7202c20db5727e3bfcb74119a2ceae4cf72f641b1366a46a3e496"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/panorama/panorama_0.png"
-hash = "bf2e86234282958b99c63b58e17db2fb0c880b72e0793c6068ebc3f8ffc366a5"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/panorama/panorama_1.png"
-hash = "c064622f68bb1b4c316140f84ed14f156866a0ee03c823831eea80bbe1c6be3d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/panorama/panorama_2.png"
-hash = "fa16f99d5bc599bd391d1c51682238bf72fabe5244d8f38b048e95e4184c85af"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/panorama/panorama_3.png"
-hash = "51ddf71d4ee9f50c59ded51b14c67c03af7b036b1c0f10c19361ead03afc2f25"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/panorama/panorama_4.png"
-hash = "be4f76d8258aa109faa78780e26f990fd8118941686f65d4780d82f54d51b839"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/panorama/panorama_5.png"
-hash = "4f5705ff881a619f32b0fc6be78f151430810a855904f11f0fddcad8afe3b424"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/nether2/properties.txt"
-hash = "01f7710f0a7ada22362c4fe59edddc327df5420cfd7933e1526d6a26654f2da5"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/panorama/panorama_0.png"
-hash = "2e3d71a573d4ce1245daf9e56fdc2017416bb678159ac41dc57904d2d8adc02d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/panorama/panorama_1.png"
-hash = "35bbb70de37f9168463317af97eb13b48c6de5d911eb06e01f54eb1d32441f2f"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/panorama/panorama_2.png"
-hash = "deb6b62162fee8f9d5f250388d0444687b24a687bf115b751ff651c8b3b926b9"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/panorama/panorama_3.png"
-hash = "d26d4870c20f9db38fa3e518227783d31b51c2581e192dd7f8b2a57f873b588a"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/panorama/panorama_4.png"
-hash = "06fa047972254b93338d385077cb1fdfb840c368ca574c656ea773fe7ecaa924"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/panorama/panorama_5.png"
-hash = "9b6348b9554f186d8c08527daf1db9d1b8d25636a10a0c3a1e031262d128e091"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld1/properties.txt"
-hash = "e0860ded8a4f1be5e596015e87c88e95aa854463549f2bdeb6571bc82811efbe"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/panorama/panorama_0.png"
-hash = "55d3a9c0a6033123abde59ea056e1277fbb12aaf37a392343783ec44a2f25e32"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/panorama/panorama_1.png"
-hash = "dbb55240b6bcc15a7bcf21537815589650229dc351e316de4dd898f71cf69a92"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/panorama/panorama_2.png"
-hash = "bd70ea5d78885f8b3034b1bf69a0d1b801f41ccfefaf1665760fc7748c45746d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/panorama/panorama_3.png"
-hash = "b3d3458dbce781dbd98ae58976ab94bd4b7f5f07146239c45f391caf3b779a4b"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/panorama/panorama_4.png"
-hash = "261a85a30f2e0f7ad3c07a8a26fd311279c8b54b082e6ca7b87d20f2588a1d74"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/panorama/panorama_5.png"
-hash = "c6b25fb97a7157f8d6b87402be58e64c59037dd53a199e53b7947d91b68aaba2"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld2/properties.txt"
-hash = "cf4d70608e146b2e2b3b552d9d36646a871acd4caac32fab74d29cc60c5c9e03"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/panorama/panorama_0.png"
-hash = "e13c2565a8dceff9971c8fa17ea878d7ecea96ab642d2b57ced4f5f1cc097996"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/panorama/panorama_1.png"
-hash = "80436267e8148c8481e0c729715729443b01a9a6a10bce3b09a3570e50389160"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/panorama/panorama_2.png"
-hash = "8bed6afc19eefee27c2f1b0950394b023a2b39ffb990ee69be21070750510eff"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/panorama/panorama_3.png"
-hash = "cb3442dacbdeb90d9857dd1c567f612b90c360c0922fefa3c7b0bab21099ef1d"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/panorama/panorama_4.png"
-hash = "076e0ae54060ff5bb04999d7ca9bea47598391a5d8b250182e016a65605f47ff"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/panorama/panorama_5.png"
-hash = "07d0967833d5bf25414ae5475d3cb242faa28429c01c45752d8a30e34bd90a57"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/panoramas/overworld3/properties.txt"
-hash = "36f37f1bf179e079cae3e994d0a7531d64eedb536e042a5ba959d8291a890b1e"
-
-[[files]]
-file = "fancymenu_setups/exported_setups/Vanilla++FancyMenu/setup/config/fancymenu/user_variables.db"
-hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
-
-[[files]]
 file = "icon.png"
 hash = "cf8ed02b87986ce4987c3c1dd93b7f43ca43b7c9d54a3e99925c3bd50639457a"
 
@@ -1640,6 +1356,10 @@ file = "resourcepacks/wyvernity-datapack-textures-v1-15.zip"
 hash = "aaf31e04d46815f8d250eb272d544ede554a4f1b2f9482d5753e0acbcda09126"
 
 [[files]]
+file = "resourcepacks/§6Loki's MC Resource Pack §bV3.zip"
+hash = "38c3bba6e00400d034aacc2f2b2884101c985474fa157b399f2f5c8380e68ba2"
+
+[[files]]
 file = "resourcepacks/§6Loki's §aVanilla §c++ §aAssets/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "55d3a9c0a6033123abde59ea056e1277fbb12aaf37a392343783ec44a2f25e32"
 
@@ -1682,6 +1402,14 @@ hash = "76e3ae2e457deb242e24e28d3f47966bf044b87745381dba5c3475aa5f2943d1"
 [[files]]
 file = "resourcepacks/§6Loki's §aVanilla §c++ §aAssets/pack.mcmeta"
 hash = "d99e55201997ecff61f44f3568cfce80912e75dabd90a446eb6a5232e81acc34"
+
+[[files]]
+file = "resourcepacks/§6New Default+.zip"
+hash = "8972f583a38ca4717092e447737d1a1394a37529174ea32b7fcefe27b04a22d1"
+
+[[files]]
+file = "resourcepacks/§cBushy Leaves Addon.zip"
+hash = "1cd9797c9831cac6a452e86c41eb6f41e06cab318c55a19e6314cf235f9859f6"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 1/data/chunks.dat"
