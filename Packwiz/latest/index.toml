@@ -1453,7 +1453,7 @@ hash = "acd65c13112ee86090947dd8b5e4622eff86f79ab522ca44dd21dc7f9ffae069"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 1/datapacks/Fokastudio's Ender Expansion Dev.zip"
-hash = "f2b4b035921fb88c7e9699b4ee714b066023c8396e3d7353755391325f0453e5"
+hash = "b0861228dec91363e90fc50f2dc822f520afa2c65d0bd27a8427c7c1f46480b2"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 1/datapacks/champions-v1-4.zip"
@@ -1512,106 +1512,6 @@ file = "saves/§6Vanilla++§r Option 1/level.dat_old"
 hash = "8f1b8e32372e9ca17d5ed4e908e1b3a6403c80491f9545587bf9ffe7bfa82801"
 
 [[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.-1.-1.mca"
-hash = "3a68768de08e90cca7bd93d5dd03069f44766c94072126f1c734c863442bc8c3"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.-1.-2.mca"
-hash = "f269ea5d5e1464d08f1339ad11ccb06e3de8cfdf0ba6a00da295d0884b3b3ce0"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.-1.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.-2.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.-2.-2.mca"
-hash = "0b47c5e7cf3a9b77037be3a3306ee5cb17c459d9d0c29f2017fc9a144671ac97"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.-2.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.0.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.0.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.13558.13558.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.13558.13559.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.13559.13558.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.13559.13559.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.4.10.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.4.11.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.4.12.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.5.10.mca"
-hash = "0551145f5ce2ddf233953307eda232f8efed5b9374b6d578a575fd93d4443dfd"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.5.11.mca"
-hash = "efc9d8d21b96032df36daab2c66c93a5581867ca63e133e9c73bd35f419103a5"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.5.12.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.6.10.mca"
-hash = "675c48237e10ad8bc24d60efe80f363378b6a65a3898070a85c9541d4109636f"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.6.11.mca"
-hash = "0a892d66b8fde65d39b83f3003885eb18e4d27267f733fe92f179fa57bf708e9"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.6.12.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.6.9.mca"
-hash = "88a0256c351ec666309cedb585a920edc09f0c860493c8867d8b5fe5576273c4"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.7.10.mca"
-hash = "e73e42ffbea7621fd70bfce4dd50a403e6b904ba8adc35abf95a131a40bb90d5"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 1/poi/r.7.9.mca"
-hash = "023e0ef49b362c365528aedaa076a5b548f49aa40369631638c9bb5471b47017"
-
-[[files]]
 file = "saves/§6Vanilla++§r Option 1/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
@@ -1632,170 +1532,6 @@ file = "saves/§6Vanilla++§r Option 2/data/fabricRegistry.dat"
 hash = "2ab159bfd185ef2187cb312821dc15c0f9b892f1a72f1d85364e4c90805ae4ad"
 
 [[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.-1.-1.xz"
-hash = "0355afc542b9868ad270195be48d07f79a0f7d5329d3df82a07bdb057f4cce2e"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.-1.0.xz"
-hash = "4fd039dd0ef1bd3c2948483243b8900c6447e30d2fb04d968ed522684c0dee20"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.0.-1.xz"
-hash = "b457cec1cc136412a9e5b0eed2f2a769c3b7b274db4203b2969502169ede3a01"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.0.0.xz"
-hash = "f7d6c5531a0c3247cad9627ab1753444a03e48cd964a126b2f917aa369ab6443"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.-1.-1.xz"
-hash = "bcdf318a286f311c8f8a1bb014da93204e38f5afbfbb72c4d4a2cef618612df6"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.-1.0.xz"
-hash = "48edc3125e491f1029a25ff595d1bfa888d66b38e7477e44b326438732752aa1"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.0.-1.xz"
-hash = "6e6976894ec90aa4bac8d6efee229f7add1da4df6c196514a7e0ba49cf42333b"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.0.0.xz"
-hash = "7079a771e5c5ac597da1cd4ffc24d0b13bb948c47efa70564aa9f82e15fe965d"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.-1.-1.xz"
-hash = "837d82e7064d5c7c19ca0ce784e99f22b6d5180ad2089ac0cf80eb04108e2744"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.-1.0.xz"
-hash = "5eda069cf7be97b02f63f758f1573ee4644a5352906c5c4b00874c80f6159a8a"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.0.-1.xz"
-hash = "489c73a05c2496965577f04ce7290bde7c1b7bec5c21d8beab261cb8fdf6c681"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.0.0.xz"
-hash = "b61779474bbdf2bc2b81b27528028246f615f52a2838004c1a08eddfc3a77805"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.-1.-1.xz"
-hash = "1d916bfde8bd25ec68a5123ff4823c4e22ba91313147ba347c7ba31af2cef818"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.-1.0.xz"
-hash = "567b5d5b38e4d6fe347a3350c132a522991453d198b9cc2b3f849968e6f1926d"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.0.-1.xz"
-hash = "22e6507246e38175b268cd028d961f50f7c58bdc03bb7c5e99876a8585011da6"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.0.0.xz"
-hash = "5db03633454dce071ba237d8407e2375e8925c8836e89c3857bfb018853f58ef"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.-1.-1.xz"
-hash = "111d24359f79eb5ba7ded2ac01a01ab9951c46d96d93b5360037c7b2c6cef659"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.-1.0.xz"
-hash = "bcd86513e1b28dcaade7375e6056bdf39252899fd08d002e0968309e346b5baa"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.0.-1.xz"
-hash = "13428e5f457d0484e6ad1be354a7eb257a1a14f6a9544220734989c0393382de"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.0.0.xz"
-hash = "60d4bbbb5e660e6fde5061a3735988fdb844865a6f31aa27410f885c3b9a4fe8"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.-1.-1.xz"
-hash = "360d59c0348c6e96d6e1291951ac6f32852faccdc5dcfa8682717b4b086e522e"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.-1.0.xz"
-hash = "ea6f336760a1e6bcaf07c199b80dc9a698648f9232fd56660e6d20aa6e52c8de"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.0.-1.xz"
-hash = "08ed085481d07586774ad35969f478bcefab203ea9828d7bd055df692197175e"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.0.0.xz"
-hash = "787fe9286d484714cf11339790928b18510faa67ba3a2716bb5564d9aaedc79a"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.-1.-1.xz"
-hash = "e75ba292627a6dd166be0687440d834a9211d3d409d7dd4c798e55a108923c1e"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.-1.0.xz"
-hash = "f3a61c018277267757be2798f04e44e6ccdcfc30cee8490002c9b44ba3297f86"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.0.-1.xz"
-hash = "72a29f297f7942ea683e969e5843106ebac62cd3a43dfe2de9a7b2fe4bd772c6"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.0.0.xz"
-hash = "8336077d6b40538261c4471c9ec45c9681989c95f055eb6fe6b884306aabe10a"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.-1.-1.xz"
-hash = "fe4e32ce5536a8086a50c0fa1babe585853e0f45a0b6777750518a446ed37e2f"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.-1.0.xz"
-hash = "bdec94a0bdd52f255b1c484418b603a6068f65e283aa5318ef4110a5de4b65c9"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.0.-1.xz"
-hash = "68d31b82d3e8f2040d5dab926aa2d00826d7726c7a243f8810770bfa6c02bfe9"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.0.0.xz"
-hash = "86e155e314654b4fd6cdd7fd1556df39894043b5b2321034f93f0ec7716b80b4"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.-1.-1.xz"
-hash = "0cc50c80cd0a9e2ed4d80d197e31771982cb61a0add0bde25d7619093169dee1"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.-1.0.xz"
-hash = "f2ccb9e251deb2e5083512fb13fb2f488fdb02f09e445b1783a5fc4b8c221581"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.0.-1.xz"
-hash = "f4ad1b681cf98631593bf8b1aae09ef54d57deb3a94cfa5c86eacf8e1b9bc8e9"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.0.0.xz"
-hash = "f7a10291f50d05d454a0b6f235632ffdb5409131e51ac18bf6ffacfa1fb2a05c"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.-1.-1.xz"
-hash = "06234831582fee144b702b7cf267f571b59fb5703223effaa7b414a0b2099b88"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.-1.0.xz"
-hash = "bd8213df7653396d590acd4c1bb352a5ccc5d806eab3f84c720d66a6015aefd2"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.0.-1.xz"
-hash = "cfb47710876f9986e964c4a2a3446fc4b3b618766d8782ae0a2c6a211a59fe7c"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.0.0.xz"
-hash = "46666cd6297cbbf1fb9e1572e0cda409e44e2ed05978029c37c08456d30629be"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/data/lod/_Default-Sub-Dimension/_playerData.toml"
-hash = "f35abc750ae06376de4278f47326c67bf4f13faeae8b414823adb4cfd361fddd"
-
-[[files]]
 file = "saves/§6Vanilla++§r Option 2/data/raids.dat"
 hash = "a158bf13be8cce74dd06900b98e0e92f073b1b5b6487263b2bb7ed7199a08ab6"
 
@@ -1813,7 +1549,7 @@ hash = "acd65c13112ee86090947dd8b5e4622eff86f79ab522ca44dd21dc7f9ffae069"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 2/datapacks/Fokastudio's Ender Expansion Dev.zip"
-hash = "f2b4b035921fb88c7e9699b4ee714b066023c8396e3d7353755391325f0453e5"
+hash = "b0861228dec91363e90fc50f2dc822f520afa2c65d0bd27a8427c7c1f46480b2"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 2/datapacks/champions-v1-4.zip"
@@ -1872,26 +1608,6 @@ file = "saves/§6Vanilla++§r Option 2/level.dat_old"
 hash = "c74bd4d80d0da9862e56e95419080a72e12c1fb8c3c3e87e45e9dd4408d5a9ac"
 
 [[files]]
-file = "saves/§6Vanilla++§r Option 2/poi/r.-1.-1.mca"
-hash = "1a4775507aa36078a77e92b53dd5770460952c8f5979fe4cf5e1f226546b458d"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/poi/r.-1.0.mca"
-hash = "e426886c91d70bfea73a411bb90bd7e71495583de0c4908afab04e83fd0d3607"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/poi/r.0.-1.mca"
-hash = "3b9d7360ed10e07822b8c1a44ba0fb86454a1ccd3aa765cc872da64dbe034341"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/poi/r.0.0.mca"
-hash = "2c1b2030049301b3e8adfc5894560e1f632e0e352ede7c05b3c28e5c7fb145cb"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 2/poi/r.13558.13558.mca"
-hash = "593516785e5da783bb2eb736950df9a6223e500cdf13a568153b440a8cf123a3"
-
-[[files]]
 file = "saves/§6Vanilla++§r Option 2/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
@@ -1933,7 +1649,7 @@ hash = "acd65c13112ee86090947dd8b5e4622eff86f79ab522ca44dd21dc7f9ffae069"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 3/datapacks/Fokastudio's Ender Expansion Dev.zip"
-hash = "f2b4b035921fb88c7e9699b4ee714b066023c8396e3d7353755391325f0453e5"
+hash = "b0861228dec91363e90fc50f2dc822f520afa2c65d0bd27a8427c7c1f46480b2"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 3/datapacks/champions-v1-4.zip"
@@ -1992,42 +1708,6 @@ file = "saves/§6Vanilla++§r Option 3/level.dat_old"
 hash = "aa835cf2fb13b266b9908f66ab49184cf48e92129b5ba390c87caa3f5f6721df"
 
 [[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-1.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-1.-3.mca"
-hash = "4590ddf431a609ba261bd560d5118fb97f985ab3800403fe2bb813861d1acddc"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-1.-4.mca"
-hash = "fef044c32190a33a67d8a3bbd8fe1d2ba9f06cb8789b4e7cf2e60ed18cf4b90f"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-2.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-2.-3.mca"
-hash = "4ba093dc9e14958ba95b453ee8d59b1fc0e00a4fed1252037972cebab01a37b4"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-2.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-3.-2.mca"
-hash = "bec6eb27ba66f6f1b465c652bc0fde8798105e17ef7eb0cf149cb3eb7bf034fa"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-3.-3.mca"
-hash = "1877365a04f0fbc486a75f52dfd46700211e947454a5ffcff14a058dff995f91"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 3/poi/r.-3.-4.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "saves/§6Vanilla++§r Option 3/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
@@ -2065,7 +1745,7 @@ hash = "acd65c13112ee86090947dd8b5e4622eff86f79ab522ca44dd21dc7f9ffae069"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 4/datapacks/Fokastudio's Ender Expansion Dev.zip"
-hash = "f2b4b035921fb88c7e9699b4ee714b066023c8396e3d7353755391325f0453e5"
+hash = "b0861228dec91363e90fc50f2dc822f520afa2c65d0bd27a8427c7c1f46480b2"
 
 [[files]]
 file = "saves/§6Vanilla++§r Option 4/datapacks/champions-v1-4.zip"
@@ -2124,34 +1804,6 @@ file = "saves/§6Vanilla++§r Option 4/level.dat_old"
 hash = "31ab652b0d6f0e49daafbff9dfdace72951603e710551dd17a6cd5f86ece9580"
 
 [[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.-1.-1.mca"
-hash = "4b4ec5833725c4e56edd193eef35d6789d59392add3c67f577a969325be57b41"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.-1.0.mca"
-hash = "2f28485b31c8927eacc28268db97655f5ef9cb3b39b8f3dc8af9d5e2cd84b583"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.-2.-1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.-2.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.0.-1.mca"
-hash = "352145e42b2b0c4c7ade4064135023aee4bea324f971f4757f6de567d26dc4dc"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.0.0.mca"
-hash = "49c4bf83b5284f74d180dd17a3fe4810a1857ad59dc279a1e0e2b1ed25885e94"
-
-[[files]]
-file = "saves/§6Vanilla++§r Option 4/poi/r.0.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "saves/§6Vanilla++§r Option 4/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
@@ -2172,170 +1824,6 @@ file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/fabricRegistry.dat"
 hash = "2ab159bfd185ef2187cb312821dc15c0f9b892f1a72f1d85364e4c90805ae4ad"
 
 [[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.-1.-1.xz"
-hash = "3370d3562b710e5bd9264ca5b1d5aef65bdea5b5a739bf067e0d5357c6458784"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.-1.0.xz"
-hash = "5c8ce265e0c880cab29f21b66f3b416818568812232a1fcfd73e678d06fd8e4b"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.0.-1.xz"
-hash = "0f3bd6d14e36d0b6c9e7851302cfa929508aee26d7639f639ea55c7463fbada1"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-0/lod.0.0.xz"
-hash = "011c9ca4b8e649ea0449133708446b2174a2d71a42507e6f97de269d817e8efa"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.-1.-1.xz"
-hash = "4bdd06602ce2c0c0abad9d5b6d8f61cdb38b29005a4eff0e54f949264f7f8d1d"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.-1.0.xz"
-hash = "564b4fbb998a2d67f493dfba97bf6baef832e9ac8700f27e0c05aff280f0e282"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.0.-1.xz"
-hash = "5ca62c121bd393b40bbd90cbe2ac743f6939849fb8f8c656541a717c310e5063"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-1/lod.0.0.xz"
-hash = "f0522ede8b79f07b4a10ec3ea7ab1c6cde2f22222f9ca71db28d7bb368006ecb"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.-1.-1.xz"
-hash = "68ef3bffb5ab0df371ff89d21826c64961ee5759ae3c52ced3a0777ddb5e8b5a"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.-1.0.xz"
-hash = "393c64f3a0bba5874d219d70d863daa7762d693d244c215a3bd7493fc4e3cc6d"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.0.-1.xz"
-hash = "0d286298b6c77d60bfb0480236bf0760e11a8569b7a947ccaee6d2a468ab92a8"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-2/lod.0.0.xz"
-hash = "289b2ffa3f93d79df71789da4ba6cba999a218bf9f0197ab884de362fc53407d"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.-1.-1.xz"
-hash = "0b9a3315210ee3a4a3c4a3947a2af8300262a1d09bfaa95ca38807783f8b4436"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.-1.0.xz"
-hash = "4c51ba4aa3a9d0d16644d4a6dc3c06ddfdda1d559e2fa8c551aac0b922e6d8ea"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.0.-1.xz"
-hash = "7c6b34ddcf971bd4ae04e22e5014c740325292b0b123f51159d27b27b6088592"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-3/lod.0.0.xz"
-hash = "029efce0885051162c699716e1a5d13e24702b1e139ec9a1c90a045e10408530"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.-1.-1.xz"
-hash = "3d78ba54f95ed8f0a86ae1d447f8b76f3159f3b2cc6d0d2aab492abc324a6f17"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.-1.0.xz"
-hash = "21f658f2e55453587d0b014935ca752e54319f143e9505601792130da5f5dd14"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.0.-1.xz"
-hash = "19458569b4c8a51b8cac38c6b6155c7aecf71d040659feb4c2453d4082420361"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-4/lod.0.0.xz"
-hash = "365ca876aff1c4e83c6fbdec5d28d823fbd18f17b9d13f6957c626ef450bd573"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.-1.-1.xz"
-hash = "510b526819ac3ff5cfe4bc915dbe1176fc1146659eac15ec28beeaa004d0c525"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.-1.0.xz"
-hash = "32d2c6df33b79352b35d1894ba1974853f26d732db4755ee1027af2699b99db6"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.0.-1.xz"
-hash = "a8b9afe1fa5866db962ec09388beea8b2691d40af15aa083062ebb938d307d75"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-5/lod.0.0.xz"
-hash = "a9761650ac1e60113bd78242614440b2274db3b53b7672f742832935538ae143"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.-1.-1.xz"
-hash = "198578fa4d77114769b5367606d239f7fd420b969b5ac907f92090982d6238c1"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.-1.0.xz"
-hash = "292920482490dc343cc3b408aa35dbaf93f4e4b41f231a4c1408e5d7e647c52b"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.0.-1.xz"
-hash = "d725ea131376022a2a12717ceb9de4124fc9cb670ccd792fc89a78a8f5e0515e"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-6/lod.0.0.xz"
-hash = "d2519ead54fa925b9f52a106332ec5d33623432a5648a222847873ff40988d19"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.-1.-1.xz"
-hash = "258bd678af5c7f74693ef35c37eca9dbae7b88f056b134a3b2d6871213628842"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.-1.0.xz"
-hash = "9e450f5c9273f3264cd46fbddefb61ce95660a1d7f9ecd2e6757326cdfaa1a9f"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.0.-1.xz"
-hash = "086a8bd570e200f2285e3cd40a9d21e0c634130561ab67e1105aa26d2f194fa6"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-7/lod.0.0.xz"
-hash = "4ac9ed62dabe4e44ef31edccc6fd9ff3f31554537d07c17610917624053d8024"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.-1.-1.xz"
-hash = "1080778539bd4973f5f830644637b1f0cf424fd019a762d7ace069c07c1ea4de"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.-1.0.xz"
-hash = "82951f69632476a36309ba2dc314f1a49a0be302d92344142afd11f4ee70e5a7"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.0.-1.xz"
-hash = "b4a3ff2e9dc8b3d9703e1982564e9c24c1eb1048cb1d98c4fec6619b23cd26d0"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-8/lod.0.0.xz"
-hash = "69a6a6aeffcec91a299d005e7017607bcc66f7b7e3b2d3cba45a84c2c6c68f28"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.-1.-1.xz"
-hash = "30efabd253113fda2879d03c24c39085ac45ace5d56b5e545d17422d19de777e"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.-1.0.xz"
-hash = "493d3389997ff843893dc15d37ef28afe1c7aa24568e254d3fa604b9c6d55411"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.0.-1.xz"
-hash = "7934e4686ca69c08d339c4fdf9a5f5c4694eaea4b046b9862b457c1f71fc2c86"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/HIGH/detail-9/lod.0.0.xz"
-hash = "397b1e060f83202aeafee7b92a74aecf8dd64ad8267507cd525f3fa5825d11cf"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/lod/_Default-Sub-Dimension/_playerData.toml"
-hash = "204744f29a8972c569159dfc5bce6753f451885250e532292e8bb1f5887c0545"
-
-[[files]]
 file = "saves/§6Vanilla++§r §c2B2T Edition§r/data/raids.dat"
 hash = "0a2a422662ae05956b0bb5f2956893f7e458ccaea96b112532481cb1d09422ee"
 
@@ -2353,7 +1841,7 @@ hash = "acd65c13112ee86090947dd8b5e4622eff86f79ab522ca44dd21dc7f9ffae069"
 
 [[files]]
 file = "saves/§6Vanilla++§r §c2B2T Edition§r/datapacks/Fokastudio's Ender Expansion Dev.zip"
-hash = "f2b4b035921fb88c7e9699b4ee714b066023c8396e3d7353755391325f0453e5"
+hash = "b0861228dec91363e90fc50f2dc822f520afa2c65d0bd27a8427c7c1f46480b2"
 
 [[files]]
 file = "saves/§6Vanilla++§r §c2B2T Edition§r/datapacks/champions-v1-4.zip"
@@ -2410,22 +1898,6 @@ hash = "1ae510f211a30edcf168f960fb66d778ada5f1ce396198ddf7ac9de8063c0aea"
 [[files]]
 file = "saves/§6Vanilla++§r §c2B2T Edition§r/level.dat_old"
 hash = "a2e44d32949c1a969e35093a1ff45b7feb96ee473599cbbc8d2e60604d3c2293"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/poi/r.-1.-1.mca"
-hash = "92fccf2f9bb5f779921e2661b99a2f19838648058952a4726100b6ff9e6b01be"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/poi/r.-1.0.mca"
-hash = "15f8b4cf8dc9c87b0116ecff19e927f90fe9f1a7fbdb29cd1cbcbd7258b3d378"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/poi/r.0.-1.mca"
-hash = "67cbff99d5e4521a312697dd672b598623abdd5de5f881b1e182e78e7a406c2c"
-
-[[files]]
-file = "saves/§6Vanilla++§r §c2B2T Edition§r/poi/r.0.0.mca"
-hash = "215eda078460c416b05e7faa96a92078f5edb706191509f9608fd7de1edaab0f"
 
 [[files]]
 file = "saves/§6Vanilla++§r §c2B2T Edition§r/session.lock"
@@ -2488,22 +1960,6 @@ file = "saves/§cRe-Create this world for Classic Amplified Nether/level.dat_old
 hash = "40361cb35e2bd89599bb2ca23c06c98e2ccb10da7b30e9b6bb278c1b8cb1104e"
 
 [[files]]
-file = "saves/§cRe-Create this world for Classic Amplified Nether/poi/r.-1.-1.mca"
-hash = "765506db133f4ac4781198c4aa62c0e67344c3c1d0c770348378f13185d9f716"
-
-[[files]]
-file = "saves/§cRe-Create this world for Classic Amplified Nether/poi/r.-1.0.mca"
-hash = "4dc1b350a41fbf69f4b844092c9f4d1a00f25ed768a0d1090d1a22e5d736a920"
-
-[[files]]
-file = "saves/§cRe-Create this world for Classic Amplified Nether/poi/r.0.-1.mca"
-hash = "0b8577bb76d1f8d2211e0ec0d96e4c1dabd2403d0e7fc0b1dda0797d74021642"
-
-[[files]]
-file = "saves/§cRe-Create this world for Classic Amplified Nether/poi/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "saves/§cRe-Create this world for Classic Amplified Nether/session.lock"
 hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
@@ -2537,7 +1993,7 @@ hash = "acd65c13112ee86090947dd8b5e4622eff86f79ab522ca44dd21dc7f9ffae069"
 
 [[files]]
 file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/datapacks/Fokastudio's Ender Expansion Dev.zip"
-hash = "f2b4b035921fb88c7e9699b4ee714b066023c8396e3d7353755391325f0453e5"
+hash = "b0861228dec91363e90fc50f2dc822f520afa2c65d0bd27a8427c7c1f46480b2"
 
 [[files]]
 file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/datapacks/champions-v1-4.zip"
@@ -2594,22 +2050,6 @@ hash = "d719a0b4f77e0f0c820632a5158830050976edb7e0d7db730c1d4073def7b3d8"
 [[files]]
 file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/level.dat_old"
 hash = "40361cb35e2bd89599bb2ca23c06c98e2ccb10da7b30e9b6bb278c1b8cb1104e"
-
-[[files]]
-file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/poi/r.-1.-1.mca"
-hash = "765506db133f4ac4781198c4aa62c0e67344c3c1d0c770348378f13185d9f716"
-
-[[files]]
-file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/poi/r.-1.0.mca"
-hash = "4dc1b350a41fbf69f4b844092c9f4d1a00f25ed768a0d1090d1a22e5d736a920"
-
-[[files]]
-file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/poi/r.0.-1.mca"
-hash = "0b8577bb76d1f8d2211e0ec0d96e4c1dabd2403d0e7fc0b1dda0797d74021642"
-
-[[files]]
-file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/poi/r.0.0.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/§cRe-Create this world for best experience, Any Seed Works but Needed for Datapacks/session.lock"
