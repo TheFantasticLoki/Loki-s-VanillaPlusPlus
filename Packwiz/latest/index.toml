@@ -2536,7 +2536,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9c47af1e8926a86dbfc7dc526af0fa64d1e9fc6db8368495d4a7ce989918f61c"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
@@ -2702,11 +2702,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "c4aebe0362765c366bc23fd89150f8249877f6bad869aa3328cdbfd0c5cacbdf"
-metafile = true
-
-[[files]]
-file = "mods/panoramica-fabric.pw.toml"
-hash = "a3efe176f97ee0940353759f340fcd088e99f8b87c00eef277b991a80083982e"
 metafile = true
 
 [[files]]
