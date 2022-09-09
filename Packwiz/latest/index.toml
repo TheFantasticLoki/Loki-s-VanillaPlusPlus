@@ -1015,11 +1015,6 @@ hash = "88b7f3a8623301333f7341c92eda39fd73349977065c047154ffdddbc2096d7e"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
-metafile = true
-
-[[files]]
 file = "mods/command-macros.pw.toml"
 hash = "7ba49175c0a948116fcb3caee0b4b7e737316f7f68c215355308a0d816b11114"
 metafile = true
