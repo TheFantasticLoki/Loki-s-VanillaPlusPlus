@@ -1330,16 +1330,15 @@ hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.7_S.zip"
-hash = "4d30db525ecd45a2c8b0c7ef1288fe66ce2c2fe577870a8165759521e43bfd1b"
+hash = "c67fbd8c9b8d92bc6dac0c2811dfcb4c19d36cc75cf8c4c0d9f7947107e44efc"
 
 [[files]]
 file = "resourcepacks/Oliver+Remund+Paintings.zip"
 hash = "d24ff668d830e873bbf6673577851bc62f29932e20413d97cbefb3c01ef6050f"
 
 [[files]]
-file = "resourcepacks/default-improved.pw.toml"
-hash = "678d354e27b227a445cd007f3bf884cd34fb36d86b41bc9945493d6e5f626287"
-metafile = true
+file = "resourcepacks/Vanilla-labPBR-1-3-1.zip"
+hash = "35e824aaaf3dc451d7703235e6c90f048c9468b5c7b7eee24cb1ab6a85e24f75"
 
 [[files]]
 file = "resourcepacks/dnl-resourcepack-17-v1.19.zip"
@@ -1356,7 +1355,7 @@ hash = "aaf31e04d46815f8d250eb272d544ede554a4f1b2f9482d5753e0acbcda09126"
 
 [[files]]
 file = "resourcepacks/§6Loki's MC Resource Pack §bV3.zip"
-hash = "38c3bba6e00400d034aacc2f2b2884101c985474fa157b399f2f5c8380e68ba2"
+hash = "c97a1ea4866df7613482844f02e2a1660bf6fa433998804d2b63f752a53fd4c0"
 
 [[files]]
 file = "resourcepacks/§6Loki's §aVanilla §c++ §aAssets/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -2059,6 +2058,10 @@ file = "shaderpacks/1-ComplementaryShaders_v4.6.zip.txt"
 hash = "9bd294f5d471d45381a180604a4c68e834b49c9a7fb15a4db2472439ef91d9fd"
 
 [[files]]
+file = "shaderpacks/1-Complementary_Reimagined_r1.2.2.zip"
+hash = "127da40e68b823779b14c9de8b882552c9161bec8aa0dfcf06f0dc2ac3799e17"
+
+[[files]]
 file = "shaderpacks/2-BSL_v8.1.03.zip"
 hash = "0cada74e42123f6e5b348618d64e5d6627d2b63a5a8f05e9bfb13af764387b25"
 
@@ -2081,3 +2084,27 @@ hash = "8d5c905f220dc890f24f5839e06bf484aa7faa3e18f2a48f56908fecd0f1f57d"
 [[files]]
 file = "shaderpacks/3-Lagless-Shaders-Standard-1.10.2.zip"
 hash = "5a202a08fa29d65146afc2de7ea92b9c76b68f7e6d2f3435aa9ec22a80a01c2b"
+
+[[files]]
+file = "shaderpacks/3-Sildur's+Enhanced+Default+v1.14+Fancy.zip"
+hash = "b8a0dbb6a99662c396863686c8364d4b162b31588bd70df533d4ba7e02839a6e"
+
+[[files]]
+file = "shaderpacks/3-Sildur's+Enhanced+Default+v1.14+Fast.zip"
+hash = "8cd55ca8b38f04a7bc18f94f6d266b7570de46b4efcb65341027fe9351fb15f1"
+
+[[files]]
+file = "shaderpacks/Settings Presets/Complimentary Fancy.txt"
+hash = "e30ecfabf543447bd734a07aa57e34959e951d53828ded129dc9f243d697f9a0"
+
+[[files]]
+file = "shaderpacks/Settings Presets/Complimentary Loki LabPBR.txt"
+hash = "b29216f695500da5e309f18e6e8168d07ce57f716d7517e875fc7d4f57f2e3dc"
+
+[[files]]
+file = "shaderpacks/Settings Presets/Complimentary Loki.txt"
+hash = "7c10ca904c150d4832075f7592ac4d840014da2471ceb536d7666954633300d6"
+
+[[files]]
+file = "shaderpacks/Settings Presets/Complimentary Realistic.txt"
+hash = "0c52175effc4b5e432bcb16ef80a6166f9278ebf56d0e625b4ef8d4d654dc626"
