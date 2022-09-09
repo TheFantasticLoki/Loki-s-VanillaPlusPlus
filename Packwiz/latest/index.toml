@@ -1131,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "2188f6204dae58c3aee19018a2d7284e972c7ece683cae6e390fbff961736641"
+hash = "f321b40b6778926396bafdce582f198def4810f412e881a9ac7d72689fb7ccc8"
 metafile = true
 
 [[files]]
