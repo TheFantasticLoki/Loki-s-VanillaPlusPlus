@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-tips.pw.toml"
-hash = "d20728ceeb75af5b6bb6c755ae46333596e8c1e574e11aa41e062acd070c9ae7"
+hash = "c7919ae1c89dcf22667222b16275240881c9a9414724f3433707f4575a90159e"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ hash = "2c25dc32b10e335016b91bd3a6d67195cb79c561857316a44d51fe631998d230"
 
 [[files]]
 file = "mods/illuminations.pw.toml"
-hash = "2cd960b3c45ec60bcf3287d8686fdf7515a3fce2c490a2de880d7767f11c458c"
+hash = "b04d76735cbb70f93d5a55158f79c1dcf6495789a29fa5df2c0d6526929aad3c"
 metafile = true
 
 [[files]]

@@ -7,5 +7,5 @@ url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Pack
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "2C25DC32B10E335016B91BD3A6D67195CB79C561857316A44D51FE631998D230"
+hash-format = "sha1"
+hash = "649b2d5735590d32bbac68166f2a87bec7342c59"
