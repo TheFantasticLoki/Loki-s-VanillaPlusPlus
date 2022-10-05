@@ -1014,6 +1014,10 @@ hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
+file = "mods/BetterTags-1.19.2-Fabric-v1.1.jar"
+hash = "6e74f90b785f46b2ca08c6278b6ca683b16b92a741eeff0bc67ec5b41135eb81"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "e6ee4e0303ca4666aa8f53f1920d1abf23c00a2c197edac0ad246812cb329493"
 metafile = true
@@ -1070,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-tips.pw.toml"
-hash = "d93dcc869f9dfb4b19619c791b65c6f06fee927b3a886353ab6bdac9f88301fe"
+hash = "d20728ceeb75af5b6bb6c755ae46333596e8c1e574e11aa41e062acd070c9ae7"
 metafile = true
 
 [[files]]
@@ -1101,10 +1105,6 @@ metafile = true
 [[files]]
 file = "mods/cem-0.7.1.S.jar"
 hash = "50ddc4980c46e8cfb05981dfffb16fcbe1c3d7ddc955a0222a0a778ef1cbc50c"
-
-[[files]]
-file = "mods/cem-0.7.1.jar.disabled"
-hash = "89b574b196ff5e87911ca8e53df5624c381f597d1b67a3abd6b32331eafa35e8"
 
 [[files]]
 file = "mods/cem.pw.toml"
@@ -1262,8 +1262,12 @@ hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
 metafile = true
 
 [[files]]
+file = "mods/illuminations-1.10.8.jar"
+hash = "2c25dc32b10e335016b91bd3a6d67195cb79c561857316a44d51fe631998d230"
+
+[[files]]
 file = "mods/illuminations.pw.toml"
-hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
+hash = "2cd960b3c45ec60bcf3287d8686fdf7515a3fce2c490a2de880d7767f11c458c"
 metafile = true
 
 [[files]]
@@ -1477,11 +1481,6 @@ hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
@@ -1534,11 +1533,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
-metafile = true
-
-[[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "d6fcfef8a50bf79dd7b46de4015eef2d0e899b2d3542f5b356a28fa7f9e48db2"
 metafile = true
 
 [[files]]
