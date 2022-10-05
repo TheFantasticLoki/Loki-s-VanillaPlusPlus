@@ -1,0 +1,13 @@
+name = "u00a7"
+filename = "u00a7-fabric-0.1.2-mc1.19.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cd3a916f71e40c1320ca7d4f3acba266b0a1b76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3926503
+project-id = 645871

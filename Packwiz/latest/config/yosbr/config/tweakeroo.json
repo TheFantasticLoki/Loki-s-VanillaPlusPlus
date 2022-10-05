@@ -732,7 +732,7 @@
     "tweakFastRightClick": false,
     "tweakFillCloneLimit": false,
     "tweakFlySpeed": true,
-    "tweakFlexibleBlockPlacement": false,
+    "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
     "tweakGammaOverride": false,
     "tweakHandRestock": false,

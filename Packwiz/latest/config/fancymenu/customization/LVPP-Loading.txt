@@ -24,7 +24,7 @@ customization {
   shadow = true
   splashfilepath = resourcepacks\§6Loki's §aVanilla §c++ §aAssets\assets\minecraft\textures\gui\title\tips-splash.txt
   rotation = 0.0
-  scale = 1.5
+  scale = 2.25
   refresh = false
   bouncing = true
   vanilla-like = false

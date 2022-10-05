@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TheFantasticLoki",
+      "uniqueId": "49e3ecfc-fcc1-4d88-8216-b7734bccc8fe"
+    },
+    "time": 1664745514512,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kebNZQwAxR"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TheFantasticLoki",
+      "uniqueId": "49e3ecfc-fcc1-4d88-8216-b7734bccc8fe"
+    },
+    "time": 1664744884704,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TXWvZPZ0Bd"
+    }
+  }
+]

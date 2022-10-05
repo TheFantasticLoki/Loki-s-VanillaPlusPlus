@@ -72,6 +72,26 @@
 			"command": "#sel ca",
 			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
 			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.home",
+			// Key modifier
+			"keyModName": "key.keyboard.left.alt",
+			// Command to execute
+			"command": "#pause",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.home",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "#stop",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
 		}
 	]
 }

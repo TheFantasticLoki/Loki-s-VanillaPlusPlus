@@ -1,0 +1,13 @@
+name = "NameFabric"
+filename = "namefabric-v1.0.11+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "736708a6976ed875ba656f29781d5eaf83784bbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3964314
+project-id = 649758

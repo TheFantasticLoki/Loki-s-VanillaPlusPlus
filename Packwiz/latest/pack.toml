@@ -1,12 +1,12 @@
 name = "Loki's Vanilla++"
 author = "TheFantasticLoki"
-version = "1.4"
+version = "1.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee24af97ba0be72768535d70a0e1cae3f46e154d5bd899d14121fe26e674a63c"
+hash = "2bed5e072f4f4997f0b98d481529b23baa1a8c3610104b9be36198eaa54f6538"
 
 [versions]
 fabric = "0.14.9"

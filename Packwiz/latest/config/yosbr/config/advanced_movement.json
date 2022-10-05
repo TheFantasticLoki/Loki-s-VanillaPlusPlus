@@ -5,8 +5,8 @@
   "friction": 0.5,
   "accelerate": 0.15,
   "airaccelerate": 0.2,
-  "maxairspeed": 0.1,
+  "maxairspeed": 0.15,
   "airspeedcutoff": 0.2,
-  "maxSpeedMul": 2.2,
+  "maxSpeedMul": 2.0,
   "compatibilityMode": true
 }

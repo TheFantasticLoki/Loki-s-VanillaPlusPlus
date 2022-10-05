@@ -6,7 +6,7 @@
     "schematicRebuildBreakPlaceOverlayColor": "#4C33CC33",
     "schematicRebuildBreakExceptPlaceOverlayColor": "#4CF03030",
     "schematicRebuildReplaceOverlayColor": "#4CF0A010",
-    "schematicOverlayColorExtra": "#4CFF4CE6",
+    "schematicOverlayColorExtra": "#13FF4CE6",
     "schematicOverlayColorMissing": "#2C33B3E6",
     "schematicOverlayColorWrongBlock": "#4CFF3333",
     "schematicOverlayColorWrongState": "#4CFF9010"
@@ -65,7 +65,7 @@
   },
   "Hotkeys": {
     "addSelectionBox": {
-      "keys": "M,A"
+      "keys": "BACKSLASH,A"
     },
     "cloneSelection": {
       "keys": ""
@@ -77,7 +77,7 @@
       "keys": "BUTTON_2"
     },
     "easyPlaceToggle": {
-      "keys": ""
+      "keys": "BACKSLASH,SPACE"
     },
     "executeOperation": {
       "keys": ""
@@ -89,10 +89,10 @@
       "keys": ""
     },
     "layerModeNext": {
-      "keys": "M,PAGE_UP"
+      "keys": "BACKSLASH,PAGE_UP"
     },
     "layerModePrevious": {
-      "keys": "M,PAGE_DOWN"
+      "keys": "BACKSLASH,PAGE_DOWN"
     },
     "layerNext": {
       "keys": "PAGE_UP"
@@ -119,40 +119,40 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "COMMA"
+      "keys": "BACKSLASH"
     },
     "openGuiMaterialList": {
-      "keys": "M,L"
+      "keys": "BACKSLASH,L"
     },
     "openGuiPlacementSettings": {
       "keys": "KP_SUBTRACT"
     },
     "openGuiSchematicPlacements": {
-      "keys": "M,P"
+      "keys": "BACKSLASH,P"
     },
     "openGuiSchematicProjects": {
       "keys": ""
     },
     "openGuiSchematicVerifier": {
-      "keys": "M,V"
+      "keys": "BACKSLASH,V"
     },
     "openGuiSelectionManager": {
-      "keys": "M,S"
+      "keys": "BACKSLASH,S"
     },
     "openGuiSettings": {
-      "keys": "M,C"
+      "keys": "BACKSLASH,C"
     },
     "operationModeChangeModifier": {
       "keys": "LEFT_CONTROL"
     },
     "pickBlockFirst": {
-      "keys": "BUTTON_3"
+      "keys": "BUTTON_4"
     },
     "pickBlockLast": {
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "M,BUTTON_3"
+      "keys": "BACKSLASH,BUTTON_4"
     },
     "renderInfoOverlay": {
       "keys": "I"
@@ -161,7 +161,7 @@
       "keys": "RIGHT_CONTROL"
     },
     "rerenderSchematic": {
-      "keys": "F3,M"
+      "keys": "F3,BACKSLASH"
     },
     "saveAreaAsInMemorySchematic": {
       "keys": ""

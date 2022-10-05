@@ -1,0 +1,35 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_525
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = resourcepacks/§6Loki's §aVanilla §c++ §aAssets/assets/minecraft/textures/gui/title/seeds.txt
+  text_border = 0
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  orientation_element = vanillabtn:3451001
+  x = -145
+  width = 142
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a2d29920-9aae-494f-a592-a50868204f9a1664751596394
+  y = -56
+  alignment = left
+  height = 164
+}
+
