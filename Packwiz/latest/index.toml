@@ -1009,6 +1009,11 @@ file = "imgui.ini"
 hash = "68e286a0f4b010097db2ad6079f583f30150a86cbc84ef4b991076553398f933"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "e6ee4e0303ca4666aa8f53f1920d1abf23c00a2c197edac0ad246812cb329493"
 metafile = true
@@ -1524,6 +1529,11 @@ metafile = true
 [[files]]
 file = "mods/viafabric.pw.toml"
 hash = "04d968dfa2018b2e93999502bb645e6e5329ded395aaba93a759c448a212c6a5"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
 metafile = true
 
 [[files]]

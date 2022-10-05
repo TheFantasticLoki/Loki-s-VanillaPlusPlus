@@ -1,13 +1,11 @@
-name = "Better Tips"
+name = "Better Tags"
 filename = "BetterTags-1.19.2-Fabric-v1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7cee088aca6fa3baf4176e5445df737a91909092"
-mode = "metadata:curseforge"
+url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Packwiz/latest/mods/BetterTags-1.19.2-Fabric-v1.1.jar?raw=true"
 
-[update]
-[update.curseforge]
-file-id = 4012378
-project-id = 682363
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6E74F90B785F46B2CA08C6278B6CA683B16B92A741EEFF0BC67EC5B41135EB81"
