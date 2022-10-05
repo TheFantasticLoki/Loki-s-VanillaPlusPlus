@@ -1009,26 +1009,6 @@ file = "imgui.ini"
 hash = "68e286a0f4b010097db2ad6079f583f30150a86cbc84ef4b991076553398f933"
 
 [[files]]
-file = "mods/advanced-movement.pw.toml"
-hash = "57a16f85ccb4895b9a14e78a94ef410408b95f062d5587c46ce8a97670e837ce"
-metafile = true
-
-[[files]]
-file = "mods/advancedchatbox.pw.toml"
-hash = "2ecdadd25255e8a2f12216ec62349adc8dcb1e0d7427d5bd213504d058aa0f68"
-metafile = true
-
-[[files]]
-file = "mods/advancedchatcore.pw.toml"
-hash = "bb5b1f2430f42dd81ccb5e57e8e8f7cb29000412c81149d69f2295db357d1807"
-metafile = true
-
-[[files]]
-file = "mods/advancedchathud.pw.toml"
-hash = "d8ef1c405cb96e457ff199630b603cb1dc7d59493bad022b9a16c32fdefff376"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "e6ee4e0303ca4666aa8f53f1920d1abf23c00a2c197edac0ad246812cb329493"
 metafile = true
@@ -1207,11 +1187,6 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "3911e6bfb7c8afdde3fa70a4843ff3fd3cea04ffc6f43d2c7692fe50b02030d8"
-metafile = true
-
-[[files]]
 file = "mods/elytra-flight-hud.pw.toml"
 hash = "536550e637d021d0f8f8bae0f06353d5db2990d359b18ff3751274d2940fa79b"
 metafile = true
@@ -1359,11 +1334,6 @@ metafile = true
 [[files]]
 file = "mods/litematica.pw.toml"
 hash = "c5556efa17ec13eeaaf3095d2f64e81d8a53c5cb6241896b61d99c2c2d5679cd"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "efdc004cd81ef8c5b6b1f45fd465a1152602c10eb469577126acf52a41d79d95"
 metafile = true
 
 [[files]]
