@@ -1346,6 +1346,11 @@ hash = "c5556efa17ec13eeaaf3095d2f64e81d8a53c5cb6241896b61d99c2c2d5679cd"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "cc4e67e40523c288a5093b8896d1fb65f0aeec06214628eea471636425fcf6ed"
+metafile = true
+
+[[files]]
 file = "mods/load-my-resources-fabric.pw.toml"
 hash = "49ddb4c7e4498f73bade63ab75da677b1cb21aacc2c67433128b9ded12947d49"
 metafile = true
