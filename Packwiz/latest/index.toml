@@ -1099,12 +1099,12 @@ hash = "87d49809ebd20474d7d96511a11c187a86d5efb284117dd0d393004d1ce2dbe3"
 metafile = true
 
 [[files]]
-file = "mods/cem-0.7.1.S.jar"
-hash = "50ddc4980c46e8cfb05981dfffb16fcbe1c3d7ddc955a0222a0a778ef1cbc50c"
+file = "mods/cem-0.7.1_S6_1.19.jar"
+hash = "1d2cdd3aeca77c0f1b12d0913dbac091303901a52883e0d2e4769a6ac5e5c32c"
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "c96fe747e538de517206d183a76923a570bf132da523c4ac7eca5ec08921c486"
+hash = "ff6755756e1a767f6913279f10f634a24fb51c1365fd1e8d2cfb1c3f8c9be93b"
 metafile = true
 
 [[files]]
@@ -1579,8 +1579,13 @@ file = "resourcepacks/EclecticTrove-LegendaryTooltips-1.19-1.2.0.zip"
 hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
 
 [[files]]
+file = "resourcepacks/FreshAnimations.pw.toml"
+hash = "42404f37a40e50c8486cef844313bfae8b899509072d5f697c7d56c0388350f8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/FreshAnimations_v1.7_S.zip"
-hash = "4d30db525ecd45a2c8b0c7ef1288fe66ce2c2fe577870a8165759521e43bfd1b"
+hash = "773370f764f4be1db8003ded7a48f58aa74937586e7e4c6aabad48d755990363"
 
 [[files]]
 file = "resourcepacks/Oliver+Remund+Paintings.zip"

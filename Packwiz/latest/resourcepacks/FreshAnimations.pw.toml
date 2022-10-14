@@ -1,0 +1,8 @@
+name = "Fresh Animations CEM Fork"
+filename = "FreshAnimations_v1.7_S.zip"
+side = "both"
+
+[download]
+url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Packwiz/latest/resourcepacks/FreshAnimations_v1.7_S.zip?raw=true"
+hash-format = "sha1"
+hash = "69c7f30866bbe44356abced96203927a2ec1fff8"

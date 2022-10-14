@@ -1,11 +1,11 @@
 name = "Custom Entity Models"
-filename = "cem-0.7.1.S.jar"
+filename = "cem-0.7.1_S6_1.19.jar"
 side = "both"
 
 [download]
-url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Packwiz/latest/mods/cem-0.7.1.S.jar?raw=true"
+url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Packwiz/latest/mods/cem-0.7.1_S6_1.19.jar?raw=true"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha1"
-hash = "2a7d71dafa829e44d61783f07d3f13f73e959f2e"
+hash = "ab4a7f30bfebc4ad1926dae7993440ba012c013c"
