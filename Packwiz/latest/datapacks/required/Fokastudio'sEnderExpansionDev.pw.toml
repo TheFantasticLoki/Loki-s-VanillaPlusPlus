@@ -1,0 +1,8 @@
+name = "Fokastudio's Ender Expansion Dev"
+filename = "Fokastudio's Ender Expansion Dev.zip"
+side = "both"
+
+[download]
+url = "https://github.com/TheFantasticLoki/Loki-s-VanillaPlusPlus/blob/main/Packwiz/latest/datapacks/required/Fokastudio's Ender Expansion Dev.zip?raw=true"
+hash-format = "sha1"
+hash = "79e375aa51b60b4e658a211c516120c6bbf47871"
