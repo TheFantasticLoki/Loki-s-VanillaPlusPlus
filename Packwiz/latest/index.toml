@@ -958,11 +958,11 @@ hash = "6460b0ab013ecf107e460df32d8ee6849949eb998f242676eb1077ff8a3d2c7d"
 
 [[files]]
 file = "datapacks/required/Fokastudio's Ender Expansion Dev.zip"
-hash = "178f6b02cd159f0b6e7d50271635cb6ac45db4b08aaf1c9d6521aae2ac7ffceb"
+hash = "cf33d69a6c13d444bf321071b5e0cfa0cc3f252918bd739c37e76526857dff64"
 
 [[files]]
 file = "datapacks/required/Fokastudio'sEnderExpansionDev.pw.toml"
-hash = "a582a6bef412f16a58caf035021b393cbfb7c1ea5eef1f97ae787772a0b3ba45"
+hash = "563539b8c60a2633a0722459ed1ca048eff2bb89f1fdf2acdb2f715351012b57"
 metafile = true
 
 [[files]]
